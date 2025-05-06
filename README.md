@@ -23,8 +23,4 @@ Unlike traditional scanners, this tool understands the *context* — who is doin
 2. Let the system analyze and map usage  
 3. Review the insights and fix issues
 
-> It’s like giving your APIs a second pair of intelligent eyes.
-
----
-
-> Early-stage release focused on REST APIs. More protocol support and deeper AI analysis coming soon.
+>Under Development 
